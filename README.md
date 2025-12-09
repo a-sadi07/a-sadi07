@@ -1,5 +1,5 @@
 ## Hi there. Its Asif! 👋 
-<p align="left">
+<p align="right">
   <a href="https://hits.sh/github.com/a-sadi07/">
     <img src="https://hits.sh/github.com/a-sadi07.svg?style=flat&label=Profile%20Views" />
   </a>
