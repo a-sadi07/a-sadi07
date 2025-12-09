@@ -1,4 +1,4 @@
-## Hi there. Its Asif! 👋                                                                                                            [![Hits](https://hits.sh/github.com/a-sadi07.svg?style=flat&label=Profile%20Views)](https://hits.sh/github.com/a-sadi07/)
+## Hi there. Its Asif! 👋                                                                                           [![Hits](https://hits.sh/github.com/a-sadi07.svg?style=flat&label=Profile%20Views, align= left)](https://hits.sh/github.com/a-sadi07/)
 
 
 # 🚀 About Me
