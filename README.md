@@ -29,14 +29,10 @@ I am actively **seeking a 12-month Data Analyst placement year (Summer 2026 – 
   - Guidance on securing a Data Analyst placement year (2026–2027)
   - Improving my Power BI data modelling and SQL querying skills
 # 📫 How to reach me: ...
-  - Email: asifsadi07@gmail.com
-  <p>
-  <a href="https://www.linkedin.com/in/asif-sadi">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> LinkedIn
-  </a>
-</p>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asif-sadi)
+  [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:asifsadi07@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/a-sadi07)
 
-  - GitHub: github.com/a-sadi07
 
 ❤ By Md Asiul Hasan Saadi
 
