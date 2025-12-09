@@ -1,4 +1,5 @@
-## Hi there. Its Asif! 👋
+## Hi there. Its Asif! 👋                                                                                                            [![Hits](https://hits.sh/github.com/a-sadi07.svg?style=flat&label=Profile%20Views)](https://hits.sh/github.com/a-sadi07/)
+
 
 # 🚀 About Me
 I am a **BSc Computer Science student at the University of Lincoln**  with a strong interest in **data analytics, digital transformation, and solving real-world problems through data**. My work focuses on data cleaning, exploratory analysis, dashboard development, and generating meaningful insights using Python, SQL, Excel, and Power BI.
@@ -27,11 +28,6 @@ I am actively **seeking a 12-month Data Analyst placement year (Summer 2026 – 
   - Open-source datasets that need cleaning, visualization, or insights
 # 🤔 I’m looking for help with ...
   - Guidance on securing a Data Analyst placement year (2026–2027)
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=a-sadi07&color=blue)
-  [![Hits](https://hits.sh/github.com/a-sadi07.svg?style=flat&label=Profile%20Views)](https://hits.sh/github.com/a-sadi07/)
-
-
   - Improving my Power BI data modelling and SQL querying skills
 # 📫 How to reach me: ...
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asif-sadi)
